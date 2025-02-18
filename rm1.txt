@@ -3,3 +3,5 @@ Azure cloud (most common)	https://client.wvd.microsoft.com/arm/webclient/
 Azure cloud (classic)	https://client.wvd.microsoft.com/webclient/index.html
 Azure for US Government	https://rdweb.wvd.azure.us/arm/webclient/
 Azure operated by 21Vianet	https://rdweb.wvd.azure.cn/arm/webclient/
+
+https://dl.dell.com/FOLDER05171522M/1/OM-DRAC-Dell-Web-WINX64-9.2.0-3142_A00.exe

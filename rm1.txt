@@ -1,0 +1,5 @@
+Azure environment	Workspace URL
+Azure cloud (most common)	https://client.wvd.microsoft.com/arm/webclient/
+Azure cloud (classic)	https://client.wvd.microsoft.com/webclient/index.html
+Azure for US Government	https://rdweb.wvd.azure.us/arm/webclient/
+Azure operated by 21Vianet	https://rdweb.wvd.azure.cn/arm/webclient/
